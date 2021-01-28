@@ -20,6 +20,10 @@ public class Day2_TC_Home {
 	public void Test7() {
 		System.out.println("inside Test7");
 	}
+	@Test
+	public void Test8() {
+		System.out.println("inside Test8");
+	}
 	
 	
 }
