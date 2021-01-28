@@ -22,7 +22,7 @@ public class Day2_TC_Home {
 	}
 	@Test
 	public void Test8() {
-		System.out.println("inside Test 8");
+		System.out.println("inside Test8");
 	}
 	
 	
