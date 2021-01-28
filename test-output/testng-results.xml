@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="69" started-at="2021-01-28T00:41:33 EST" finished-at="2021-01-28T00:41:33 EST">
+  <suite name="Default suite" duration-ms="136" started-at="2021-01-28T16:25:13 EST" finished-at="2021-01-28T16:25:13 EST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="69" started-at="2021-01-28T00:41:33 EST" finished-at="2021-01-28T00:41:33 EST">
+    <test name="Default test" duration-ms="136" started-at="2021-01-28T16:25:13 EST" finished-at="2021-01-28T16:25:13 EST">
       <class name="com.testngproject.Demo_testing.Day2_TC_Home">
-        <test-method status="PASS" signature="Test5()[pri:0, instance:com.testngproject.Demo_testing.Day2_TC_Home@6acdbdf5]" name="Test5" duration-ms="10" started-at="2021-01-28T00:41:33 EST" finished-at="2021-01-28T00:41:33 EST">
+        <test-method status="PASS" signature="Test5()[pri:0, instance:com.testngproject.Demo_testing.Day2_TC_Home@6acdbdf5]" name="Test5" duration-ms="21" started-at="2021-01-28T16:25:13 EST" finished-at="2021-01-28T16:25:13 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test5 -->
-        <test-method status="PASS" signature="Test6()[pri:0, instance:com.testngproject.Demo_testing.Day2_TC_Home@6acdbdf5]" name="Test6" duration-ms="2" started-at="2021-01-28T00:41:33 EST" finished-at="2021-01-28T00:41:33 EST">
+        <test-method status="PASS" signature="Test6()[pri:0, instance:com.testngproject.Demo_testing.Day2_TC_Home@6acdbdf5]" name="Test6" duration-ms="2" started-at="2021-01-28T16:25:13 EST" finished-at="2021-01-28T16:25:13 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test6 -->
-        <test-method status="PASS" signature="Test7()[pri:0, instance:com.testngproject.Demo_testing.Day2_TC_Home@6acdbdf5]" name="Test7" duration-ms="4" started-at="2021-01-28T00:41:33 EST" finished-at="2021-01-28T00:41:33 EST">
+        <test-method status="PASS" signature="Test7()[pri:0, instance:com.testngproject.Demo_testing.Day2_TC_Home@6acdbdf5]" name="Test7" duration-ms="2" started-at="2021-01-28T16:25:13 EST" finished-at="2021-01-28T16:25:13 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test7 -->
+        <test-method status="PASS" signature="Test8()[pri:0, instance:com.testngproject.Demo_testing.Day2_TC_Home@6acdbdf5]" name="Test8" duration-ms="2" started-at="2021-01-28T16:25:13 EST" finished-at="2021-01-28T16:25:13 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test8 -->
       </class> <!-- com.testngproject.Demo_testing.Day2_TC_Home -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
